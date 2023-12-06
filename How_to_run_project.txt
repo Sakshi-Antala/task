@@ -1,0 +1,2 @@
+Step 1 : Extract Project Zip and then Install node_modules
+Step 2 : Start Server with : nodemon
